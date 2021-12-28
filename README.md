@@ -1,2 +1,2 @@
-# ci-config-shop
+# ci-configs
 A collection of CI configs for Github Actions, Gitlab CI and more....
